@@ -1,0 +1,6 @@
+output/
+.env
+.python-version
+__pycache__/
+*.pyc
+uv.lock

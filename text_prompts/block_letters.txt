@@ -1,0 +1,15 @@
+"""
+A bold, hand-drawn chalkboard-style sign featuring the word "{text}" rendered in large, 
+uppercase block letters on a dark charcoal or blackboard surface. The letters are constructed in a 
+3D perspective shadow-box style, with a double outline creating the illusion of depth and 
+dimensionality — the outer edge forms a thick border while the inner face of each letter is filled 
+with fine diagonal cross-hatching lines drawn in white chalk, giving a textured, sketched appearance. 
+The overall lettering style closely resembles a hand-drafted architectural or vintage signage font, 
+similar to "Playfair Display," "Rockwell," or a manually rendered slab-serif display typeface with a 
+distinctly artisanal, hand-lettered quality. The white chalk lines are slightly uneven and imperfect, 
+reinforcing the handmade aesthetic, with visible stroke inconsistencies and slight smudging typical 
+of chalk on a blackboard. Each letter is evenly spaced and proportioned, filling the horizontal 
+rectangular frame tightly. The composition has a clean, wide-crop layout with a faint hint of a 
+colorful edge on the far right, suggesting a surrounding environment just outside the frame. 
+The overall mood is creative, rustic, and editorial — evoking a coffee shop menu board or bookstore display.
+"""

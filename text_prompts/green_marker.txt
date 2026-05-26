@@ -1,0 +1,14 @@
+
+"""
+A bold, hand-painted sign featuring the text "{text}" written in thick, uneven bright chalk 
+neon green paint on a dark matte black rectangular surface, resembling a chalkboard or metal panel. 
+The characters are large, chunky, and freehand-drawn with visible brushstroke texture and slight drips, 
+giving it a raw, DIY aesthetic. The numbers and slashes are rendered in an informal block-letter 
+style with irregular edges and varying stroke widths, mimicking a marker or wide paintbrush. 
+The font resembles a casual, hand-lettered display typeface similar to "Permanent Marker", 
+"Chalkduster" or "Kristen ITC" — loose, energetic, and imperfect. The green paint has a slightly 
+glossy, wet appearance against the flat dark background, with mild inconsistencies in opacity and 
+edge definition. At the bottom of the panel, there is a faint smear of light lavender or whitish 
+paint residue, suggesting an erased or painted-over previous mark. The overall composition is wide 
+and horizontal, cropped tightly to the sign with a slightly angled perspective.
+"""

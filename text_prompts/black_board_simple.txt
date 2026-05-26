@@ -1,0 +1,17 @@
+"""
+Close-up smartphone photo of a single line of handwritten text on a black chalkboard. \
+The text reads exactly: "{text}". \
+ONE LINE ONLY, no other text or decorations visible.
+
+Text style: written with a thick white or light-blue chalk marker, bold and chunky strokes. \
+Letters are large, slightly uneven, with wobbly baselines and inconsistent sizing. \
+Some strokes are too thick, some too thin — natural pressure variation from a real hand. \
+Occasional smudged edges, chalk bleed, skipped ink spots, double-stroked letters. \
+Not calligraphy — rough, casual, quick handwriting like a barista wrote it in 10 seconds.
+
+Background: matte black chalkboard with chalk dust haze, faint ghost marks from previous writing, \
+surface scratches, uneven texture. Dim café lighting, slight glare in one corner.
+
+Photo quality: slight camera tilt, minor motion blur, smartphone lens distortion, JPEG grain. \
+No clean fonts, no printed text, no decorative elements.
+"""
